@@ -1,0 +1,15 @@
+
+.aButton{
+    background-color: lavender;
+    padding: 4px;
+    border: 1px solid lavender;
+    border-radius: 5px;
+
+}
+.aButton:hover {
+    background-color: rgb(212, 212, 251);
+}
+
+.div_container{
+    margin: 40px;
+}
